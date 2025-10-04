@@ -1,0 +1,16 @@
+state,year,library_visits_per_capita,internet_access_pct,education_index,reading_hours_per_week,population_millions
+Florida,2020,4.2,85,0.76,3.1,21.5
+Florida,2021,4.0,86,0.77,3.0,21.6
+Florida,2022,3.8,87,0.77,2.9,21.7
+California,2020,5.1,90,0.82,3.6,39.5
+California,2021,5.0,91,0.83,3.5,39.6
+California,2022,4.8,92,0.83,3.4,39.7
+Texas,2020,3.5,80,0.70,2.7,29.0
+Texas,2021,3.6,81,0.71,2.8,29.1
+Texas,2022,3.4,82,0.71,2.6,29.2
+New York,2020,5.5,92,0.85,4.0,19.3
+New York,2021,5.3,93,0.86,3.9,19.4
+New York,2022,5.0,94,0.86,3.8,19.5
+Ohio,2020,4.0,82,0.75,3.0,11.7
+Ohio,2021,3.9,83,0.75,2.9,11.6
+Ohio,2022,3.7,84,0.75,2.8,11.6
